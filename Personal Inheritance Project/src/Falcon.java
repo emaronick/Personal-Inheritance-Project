@@ -3,7 +3,7 @@ public class Falcon extends NativeAmerican
 	{
 	public Falcon()
 		{
-		name = "Falcon";
+		name = super.name;
 		mainQuality = "ever persistent and always taking the initiative";
 		}
 	

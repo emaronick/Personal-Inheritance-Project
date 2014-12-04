@@ -3,7 +3,8 @@ import java.util.Scanner;
 
 public class NativeAmerican extends Zodiac
 	{
-	protected String name, mainQuality, superVar;
+	protected String name = "Falcon";
+	protected String mainQuality, superVar;
 	
 	@Override
 	public void printSummary()
