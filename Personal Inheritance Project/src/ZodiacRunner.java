@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PersonalInheritanceProjectRunner
+public class ZodiacRunner
 	{
 	protected static int choice = 0;
 	
